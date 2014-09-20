@@ -32,7 +32,7 @@ class LoginVC: UIViewController,UITextFieldDelegate {
         var username:NSString = txtUsername.text
         var password:NSString = txtPassword.text
         
-        
+        //this is a test
         
     }
     /*
